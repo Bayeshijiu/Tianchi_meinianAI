@@ -7,9 +7,9 @@
 
 1.数据处理（data_pro.py）: 
 
-A.数据去重，转换成标准格式（每行为'vid'，列为'table_id'）。[data_pro0] 
+	A.数据去重，转换成标准格式（每行为'vid'，列为'table_id'）。[data_pro0] 
 
-B.label清理  [data_pro1] 
+	B.label清理  [data_pro1] 
 
 2.特征提取（feat_ext.py）:
 
